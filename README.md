@@ -14,7 +14,7 @@ Full ecommerce solution with core php.
 ![](https://github.com/Amitdutta121/Ecommerce_Solution/blob/master/uploads/5.png)
 ### Add Products
 ![](https://github.com/Amitdutta121/Ecommerce_Solution/blob/master/uploads/6.png)
-### Order List
+### Order Summary
 ![](https://github.com/Amitdutta121/Ecommerce_Solution/blob/master/uploads/7.png)
 ### Coupon Code
 ![](https://github.com/Amitdutta121/Ecommerce_Solution/blob/master/uploads/8.png)
